@@ -1,0 +1,14 @@
+{
+  "random_commit_messages": [
+    "fix: fix the fix that broke the previous fix",
+    "feat: it works on my machine, so ship it 🚀",
+    "chore: small logic changes and pure wizardry",
+    "docs: updated README to sound like I know what I'm doing",
+    "refactor: removed 200 lines of code and somehow it still compiles",
+    "fix: resolved the bug that was caused by fixing another bug",
+    "style: added a single semicolon to calm down the linter",
+    "test: testing in production because we live dangerously",
+    "perf: fast enough for now, optimize later (never)",
+    "fix: undoing whatever I did at 2 AM last night"
+  ]
+}
